@@ -1,0 +1,2 @@
+# Aygaz_AI_Bootcamp_Proje
+CIFAR-10 VERİ SETİ İLE BASİT GÖRÜNTÜ SINIFLANDIRMA
